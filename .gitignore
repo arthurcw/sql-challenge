@@ -1,4 +1,5 @@
 data/
 python/config.py
-python/.ipynb_checkoutpoints/
+python/.ipynb_checkpoints/
+python/__pycache__/
 sql_grading_rubric.pdf
